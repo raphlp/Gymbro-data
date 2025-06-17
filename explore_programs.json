@@ -33,5 +33,77 @@
         }
       }
     ]
-  }
+  },
+  
+  {
+  "id": "22222222-0000-0000-0000-000000000000",
+  "name": "Push Day",
+  "order": 1,
+  "imageURL": "https://picsum.photos/300/150?random=2",
+  "exercises": [
+    {
+      "id": "bbbbbbb1-0000-0000-0000-000000000000",
+      "sets": 3,
+      "exercise": {
+        "id": "00000000-0000-0000-0000-000000000001",
+        "name": "Bench Press",
+        "muscleGroup": "Chest"
+      }
+    },
+    {
+      "id": "bbbbbbb2-0000-0000-0000-000000000000",
+      "sets": 3,
+      "exercise": {
+        "id": "00000000-0000-0000-0000-000000000024",
+        "name": "Military Press",
+        "muscleGroup": "Shoulders"
+      }
+    },
+    {
+      "id": "bbbbbbb3-0000-0000-0000-000000000000",
+      "sets": 3,
+      "exercise": {
+        "id": "00000000-0000-0000-0000-000000000022",
+        "name": "Tricep Pushdown",
+        "muscleGroup": "Arms"
+      }
+    }
+  ]
+},
+{
+  "id": "33333333-0000-0000-0000-000000000000",
+  "name": "Pull Day",
+  "order": 2,
+  "imageURL": "https://picsum.photos/300/150?random=3",
+  "exercises": [
+    {
+      "id": "ccccccc1-0000-0000-0000-000000000000",
+      "sets": 3,
+      "exercise": {
+        "id": "00000000-0000-0000-0000-000000000012",
+        "name": "Deadlift",
+        "muscleGroup": "Back"
+      }
+    },
+    {
+      "id": "ccccccc2-0000-0000-0000-000000000000",
+      "sets": 3,
+      "exercise": {
+        "id": "00000000-0000-0000-0000-000000000014",
+        "name": "Pull-up",
+        "muscleGroup": "Back"
+      }
+    },
+    {
+      "id": "ccccccc3-0000-0000-0000-000000000000",
+      "sets": 3,
+      "exercise": {
+        "id": "00000000-0000-0000-0000-000000000019",
+        "name": "Bicep Curl",
+        "muscleGroup": "Arms"
+      }
+    }
+  ]
+}
+  
 ]
