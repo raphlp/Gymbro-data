@@ -1,0 +1,50 @@
+[
+  {
+    "id": "11111111-0000-0000-0000-000000000000",
+    "name": "Full Body Express",
+    "order": 0,
+    "imageURL": "https://via.placeholder.com/300x150.png?text=Full+Body",
+    "exercises": [
+      {
+        "sets": 3,
+        "exercise": {
+          "id": "00000000-0000-0000-0000-000000000001",
+          "name": "Bench Press",
+          "muscleGroup": "Chest"
+        }
+      },
+      {
+        "sets": 3,
+        "exercise": {
+          "id": "00000000-0000-0000-0000-000000000007",
+          "name": "Squat",
+          "muscleGroup": "Legs"
+        }
+      }
+    ]
+  },
+  {
+    "id": "22222222-0000-0000-0000-000000000000",
+    "name": "Abdos Express",
+    "order": 1,
+    "imageURL": "https://via.placeholder.com/300x150.png?text=Core",
+    "exercises": [
+      {
+        "sets": 3,
+        "exercise": {
+          "id": "00000000-0000-0000-0000-000000000029",
+          "name": "Plank",
+          "muscleGroup": "Core"
+        }
+      },
+      {
+        "sets": 3,
+        "exercise": {
+          "id": "00000000-0000-0000-0000-000000000030",
+          "name": "Crunch",
+          "muscleGroup": "Core"
+        }
+      }
+    ]
+  }
+]
