@@ -6,6 +6,7 @@
     "imageURL": "https://via.placeholder.com/300x150.png?text=Full+Body",
     "exercises": [
       {
+        "id": "a1a1a1a1-0000-0000-0000-000000000000",
         "sets": 3,
         "exercise": {
           "id": "00000000-0000-0000-0000-000000000001",
@@ -14,11 +15,21 @@
         }
       },
       {
+        "id": "a1a1a1a1-0000-0000-0000-000000000001",
         "sets": 3,
         "exercise": {
           "id": "00000000-0000-0000-0000-000000000007",
           "name": "Squat",
           "muscleGroup": "Legs"
+        }
+      },
+      {
+        "id": "a1a1a1a1-0000-0000-0000-000000000002",
+        "sets": 3,
+        "exercise": {
+          "id": "00000000-0000-0000-0000-000000000012",
+          "name": "Deadlift",
+          "muscleGroup": "Back"
         }
       }
     ]
@@ -30,6 +41,7 @@
     "imageURL": "https://via.placeholder.com/300x150.png?text=Core",
     "exercises": [
       {
+        "id": "a2a2a2a2-0000-0000-0000-000000000000",
         "sets": 3,
         "exercise": {
           "id": "00000000-0000-0000-0000-000000000029",
@@ -38,10 +50,20 @@
         }
       },
       {
+        "id": "a2a2a2a2-0000-0000-0000-000000000001",
         "sets": 3,
         "exercise": {
           "id": "00000000-0000-0000-0000-000000000030",
           "name": "Crunch",
+          "muscleGroup": "Core"
+        }
+      },
+      {
+        "id": "a2a2a2a2-0000-0000-0000-000000000002",
+        "sets": 3,
+        "exercise": {
+          "id": "00000000-0000-0000-0000-000000000033",
+          "name": "Bicycle Crunch",
           "muscleGroup": "Core"
         }
       }
