@@ -39,7 +39,7 @@
   "id": "22222222-0000-0000-0000-000000000000",
   "name": "Push Day",
   "order": 1,
-  "imageURL": "https://github.com/raphlp/Gymbro-data/blob/ac718575c556e2eb04506d24e0ad19611d6d2681/push.png",
+  "imageURL": "https://raw.githubusercontent.com/raphlp/Gymbro-data/c2f547eab0a49a14f71fa6326a0b2b515d29f294/push.png",
   "exercises": [
     {
       "id": "bbbbbbb1-0000-0000-0000-000000000000",
@@ -74,7 +74,7 @@
   "id": "33333333-0000-0000-0000-000000000000",
   "name": "Pull Day",
   "order": 2,
-  "imageURL": "https://github.com/raphlp/Gymbro-data/blob/ac718575c556e2eb04506d24e0ad19611d6d2681/pull.png",
+  "imageURL": "https://raw.githubusercontent.com/raphlp/Gymbro-data/c2f547eab0a49a14f71fa6326a0b2b515d29f294/pull.png",
   "exercises": [
     {
       "id": "ccccccc1-0000-0000-0000-000000000000",
