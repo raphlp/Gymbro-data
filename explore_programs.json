@@ -3,7 +3,7 @@
     "id": "11111111-0000-0000-0000-000000000000",
     "name": "Full Body Express",
     "order": 0,
-    "imageURL": "https://raw.githack.com/raphlp/Gymbro-data/main/legs.png",
+    "imageURL": "https://raw.githubusercontent.com/raphlp/Gymbro-data/ac718575c556e2eb04506d24e0ad19611d6d2681/legs.png",
     "exercises": [
       {
         "id": "aaaaaaa1-0000-0000-0000-000000000000",
@@ -39,7 +39,7 @@
   "id": "22222222-0000-0000-0000-000000000000",
   "name": "Push Day",
   "order": 1,
-  "imageURL": "hhttps://raw.githack.com/raphlp/Gymbro-data/main/push.png",
+  "imageURL": "https://github.com/raphlp/Gymbro-data/blob/ac718575c556e2eb04506d24e0ad19611d6d2681/push.png",
   "exercises": [
     {
       "id": "bbbbbbb1-0000-0000-0000-000000000000",
@@ -74,7 +74,7 @@
   "id": "33333333-0000-0000-0000-000000000000",
   "name": "Pull Day",
   "order": 2,
-  "imageURL": "https://raw.githack.com/raphlp/Gymbro-data/main/pull.png",
+  "imageURL": "https://github.com/raphlp/Gymbro-data/blob/ac718575c556e2eb04506d24e0ad19611d6d2681/pull.png",
   "exercises": [
     {
       "id": "ccccccc1-0000-0000-0000-000000000000",
