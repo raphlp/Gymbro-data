@@ -1,39 +1,42 @@
 [
   {
-    "id": "11111111-0000-0000-0000-000000000000",
-    "name": "Full Body Express",
-    "order": 0,
-    "imageURL": "https://raw.githubusercontent.com/raphlp/Gymbro-data/ac718575c556e2eb04506d24e0ad19611d6d2681/legs.png",
-    "exercises": [
-      {
-        "id": "aaaaaaa1-0000-0000-0000-000000000000",
-        "sets": 3,
-        "exercise": {
-          "id": "00000000-0000-0000-0000-000000000001",
-          "name": "Bench Press",
-          "muscleGroup": "Chest"
-        }
-      },
-      {
-        "id": "aaaaaaa2-0000-0000-0000-000000000000",
-        "sets": 3,
-        "exercise": {
-          "id": "00000000-0000-0000-0000-000000000007",
-          "name": "Squat",
-          "muscleGroup": "Legs"
-        }
-      },
-      {
-        "id": "aaaaaaa3-0000-0000-0000-000000000000",
-        "sets": 3,
-        "exercise": {
-          "id": "00000000-0000-0000-0000-000000000012",
-          "name": "Deadlift",
-          "muscleGroup": "Back"
-        }
+  "id": "11111111-0000-0000-0000-000000000000",
+  "name": "Full Body Express",
+  "order": 0,
+  "imageURL": "https://raw.githubusercontent.com/raphlp/Gymbro-data/ac718575c556e2eb04506d24e0ad19611d6d2681/legs.png",
+  "exercises": [
+    {
+      "id": "aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaa1",
+      "sets": 3,
+      "exercise": {
+        "id": "00000000-0000-0000-0000-000000000001",
+        "name": "Bench Press",
+        "muscleGroup": "Chest",
+        "secondaryMuscles": ["Triceps", "Shoulders"]
       }
-    ]
-  },
+    },
+    {
+      "id": "aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaa2",
+      "sets": 3,
+      "exercise": {
+        "id": "00000000-0000-0000-0000-000000000007",
+        "name": "Squat",
+        "muscleGroup": "Legs",
+        "secondaryMuscles": ["Glutes", "Core"]
+      }
+    },
+    {
+      "id": "aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaa3",
+      "sets": 3,
+      "exercise": {
+        "id": "00000000-0000-0000-0000-000000000012",
+        "name": "Deadlift",
+        "muscleGroup": "Back",
+        "secondaryMuscles": ["Glutes", "Hamstrings", "Core"]
+      }
+    }
+  ]
+},
   
   {
   "id": "22222222-0000-0000-0000-000000000000",
