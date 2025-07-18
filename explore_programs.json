@@ -1,112 +1,44 @@
 [
   {
-  "id": "11111111-0000-0000-0000-000000000000",
-  "name": "Full Body Express",
-  "order": 0,
-  "imageURL": "https://raw.githubusercontent.com/raphlp/Gymbro-data/ac718575c556e2eb04506d24e0ad19611d6d2681/legs.png",
-  "exercises": [
-    {
-      "id": "aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaa1",
-      "sets": 3,
-      "exercise": {
-        "id": "00000000-0000-0000-0000-000000000001",
-        "name": "Bench Press",
-        "muscleGroup": "Chest",
-        "secondaryMuscles": ["Triceps", "Shoulders"]
-      }
-    },
-    {
-      "id": "aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaa2",
-      "sets": 3,
-      "exercise": {
-        "id": "00000000-0000-0000-0000-000000000007",
-        "name": "Squat",
-        "muscleGroup": "Legs",
-        "secondaryMuscles": ["Glutes", "Core"]
-      }
-    },
-    {
-      "id": "aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaa3",
-      "sets": 3,
-      "exercise": {
-        "id": "00000000-0000-0000-0000-000000000012",
-        "name": "Deadlift",
-        "muscleGroup": "Back",
-        "secondaryMuscles": ["Glutes", "Hamstrings", "Core"]
-      }
-    }
-  ]
-},
-  
+    "id": "00000000-0000-0000-2025-000000000001",
+    "name": "Push",
+    "order": 0,
+    "imageURL": "https://raw.githubusercontent.com/raphlp/Gymbro-data/c2f547eab0a49a14f71fa6326a0b2b515d29f294/push.png",
+    "exercises": [
+      "00000000-0000-0000-0001-000000000001",
+      "00000000-0000-0000-0001-000000000003",
+      "00000000-0000-0000-0001-000000000004",
+      "00000000-0000-0000-0005-000000000001",
+      "00000000-0000-0000-0005-000000000005",
+      "00000000-0000-0000-0004-000000000009"
+    ]
+  },
   {
-  "id": "22222222-0000-0000-0000-000000000000",
-  "name": "Push Day",
-  "order": 1,
-  "imageURL": "https://raw.githubusercontent.com/raphlp/Gymbro-data/c2f547eab0a49a14f71fa6326a0b2b515d29f294/push.png",
-  "exercises": [
-    {
-      "id": "bbbbbbb1-0000-0000-0000-000000000000",
-      "sets": 3,
-      "exercise": {
-        "id": "00000000-0000-0000-0000-000000000001",
-        "name": "Bench Press",
-        "muscleGroup": "Chest"
-      }
-    },
-    {
-      "id": "bbbbbbb2-0000-0000-0000-000000000000",
-      "sets": 3,
-      "exercise": {
-        "id": "00000000-0000-0000-0000-000000000024",
-        "name": "Military Press",
-        "muscleGroup": "Shoulders"
-      }
-    },
-    {
-      "id": "bbbbbbb3-0000-0000-0000-000000000000",
-      "sets": 3,
-      "exercise": {
-        "id": "00000000-0000-0000-0000-000000000022",
-        "name": "Tricep Pushdown",
-        "muscleGroup": "Arms"
-      }
-    }
-  ]
-},
-{
-  "id": "33333333-0000-0000-0000-000000000000",
-  "name": "Pull Day",
-  "order": 2,
-  "imageURL": "https://raw.githubusercontent.com/raphlp/Gymbro-data/c2f547eab0a49a14f71fa6326a0b2b515d29f294/pull.png",
-  "exercises": [
-    {
-      "id": "ccccccc1-0000-0000-0000-000000000000",
-      "sets": 3,
-      "exercise": {
-        "id": "00000000-0000-0000-0000-000000000012",
-        "name": "Deadlift",
-        "muscleGroup": "Back"
-      }
-    },
-    {
-      "id": "ccccccc2-0000-0000-0000-000000000000",
-      "sets": 3,
-      "exercise": {
-        "id": "00000000-0000-0000-0000-000000000014",
-        "name": "Pull-up",
-        "muscleGroup": "Back"
-      }
-    },
-    {
-      "id": "ccccccc3-0000-0000-0000-000000000000",
-      "sets": 3,
-      "exercise": {
-        "id": "00000000-0000-0000-0000-000000000019",
-        "name": "Bicep Curl",
-        "muscleGroup": "Arms"
-      }
-    }
-  ]
-}
-  
+    "id": "00000000-0000-0000-2025-000000000002",
+    "name": "Pull",
+    "order": 1,
+    "imageURL": "https://raw.githubusercontent.com/raphlp/Gymbro-data/c2f547eab0a49a14f71fa6326a0b2b515d29f294/pull.png",
+    "exercises": [
+      "00000000-0000-0000-0002-000000000004",
+      "00000000-0000-0000-0002-000000000006",
+      "00000000-0000-0000-0002-000000000008",
+      "00000000-0000-0000-0002-000000000011",
+      "00000000-0000-0000-0002-000000000015",
+      "00000000-0000-0000-0004-000000000001"
+    ]
+  },
+  {
+    "id": "00000000-0000-0000-2025-000000000003",
+    "name": "Legs",
+    "order": 2,
+    "imageURL": "https://raw.githubusercontent.com/raphlp/Gymbro-data/ac718575c556e2eb04506d24e0ad19611d6d2681/legs.png",
+    "exercises": [
+      "00000000-0000-0000-0003-000000000001",
+      "00000000-0000-0000-0003-000000000004",
+      "00000000-0000-0000-0003-000000000005",
+      "00000000-0000-0000-0003-000000000008",
+      "00000000-0000-0000-0003-000000000010",
+      "00000000-0000-0000-0003-000000000013"
+    ]
+  }
 ]
