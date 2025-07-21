@@ -3,7 +3,7 @@
     "id": "00000000-0000-0000-2025-000000000001",
     "name": "Push",
     "order": 0,
-    "imageURL": "https://raw.githubusercontent.com/raphlp/Gymbro-data/c2f547eab0a49a14f71fa6326a0b2b515d29f294/push.png",
+    "imageName": "Realistic1",
     "exercises": [
       "00000000-0000-0000-0001-000000000001",
       "00000000-0000-0000-0001-000000000003",
@@ -17,7 +17,7 @@
     "id": "00000000-0000-0000-2025-000000000002",
     "name": "Pull",
     "order": 1,
-    "imageURL": "https://raw.githubusercontent.com/raphlp/Gymbro-data/c2f547eab0a49a14f71fa6326a0b2b515d29f294/pull.png",
+    "imageName": "Realistic2",
     "exercises": [
       "00000000-0000-0000-0002-000000000004",
       "00000000-0000-0000-0002-000000000006",
@@ -31,7 +31,7 @@
     "id": "00000000-0000-0000-2025-000000000003",
     "name": "Legs",
     "order": 2,
-    "imageURL": "https://raw.githubusercontent.com/raphlp/Gymbro-data/ac718575c556e2eb04506d24e0ad19611d6d2681/legs.png",
+    "imageName": "Realistic3",
     "exercises": [
       "00000000-0000-0000-0003-000000000001",
       "00000000-0000-0000-0003-000000000004",
