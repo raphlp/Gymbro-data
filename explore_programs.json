@@ -3,6 +3,7 @@
     "groupName": "Begginer",
     "description": "A 3-day PPL",
     "order": 0,
+    "imageName": "Group_1",
     "programs": [
       {
         "id": "00000000-0000-0000-2025-000000000001",
