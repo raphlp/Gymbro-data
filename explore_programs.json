@@ -48,5 +48,42 @@
         ]
       }
     ]
-  }
+  },
+
+  {
+  "groupName": "3 day full body",
+  "description": "A simple 2-day per week full body routine.",
+  "order": 1,
+  "imageName": "Group_2",
+  "programs": [
+    {
+      "id": "00000000-0000-0000-2025-000000000101",
+      "name": "Full Body – Day 1",
+      "order": 0,
+      "imageName": "Cartoon_4",
+      "exercises": [
+        "00000000-0000-0000-0001-000000000001",  // Barbell Bench Press
+        "00000000-0000-0000-0002-000000000004",  // Lat Pulldown
+        "00000000-0000-0000-0003-000000000001",  // Barbell Back Squat
+        "00000000-0000-0000-0001-000000000008",  // Dumbbell Shoulder Press
+        "00000000-0000-0000-0004-000000000004",  // Cable Crunch
+        "00000000-0000-0000-0005-000000000001"   // Triceps Pushdown
+      ]
+    },
+    {
+      "id": "00000000-0000-0000-2025-000000000102",
+      "name": "Full Body – Day 2",
+      "order": 1,
+      "imageName": "Cartoon_5",
+      "exercises": [
+        "00000000-0000-0000-0001-000000000002",  // Incline Dumbbell Press
+        "00000000-0000-0000-0002-000000000006",  // Seated Row
+        "00000000-0000-0000-0003-000000000002",  // Romanian Deadlift
+        "00000000-0000-0000-0001-000000000004",  // Lateral Raises
+        "00000000-0000-0000-0004-000000000005",  // Leg Raise
+        "00000000-0000-0000-0005-000000000004"   // Barbell Curl
+      ]
+    }
+  ]
+}
 ]
